@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Qroup45Course:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Qroup45Course_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Qroup45Course/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Qroup45Course" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="ojdbc6" />
+          <element id="library" level="project" name="jstl-1.2" />
+          <element id="library" level="project" name="java-mail-1.4" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
